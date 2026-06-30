@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0080/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5g0080/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 洞玄靈寶真人修行延年益筭法
+  date: '2015-08-29 02:53:51.545361'
+  source:
+    repository: kanripo
+    path: KR5g0080
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0080_000-ZTDZ.yaml, hash: 'sha256:f6aa62cbb00aee23acfe2eb3e824961ef0bcd00013cc752e71dc88346bb179b0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0080_000-ZTDZ.markers.yaml, hash: 'sha256:8829e22c2d9a9ed7e61a03e9e3bcdd1946ef161e153c8fb31eacdb33e10b1ce9'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0080_SJB_000-320579b
+    span:
+    - body
+    - 0
+    - 3139
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:454a957ae226828f60c5e53ea0ea3f0f2934507461d574afb946949a99ed99f8
